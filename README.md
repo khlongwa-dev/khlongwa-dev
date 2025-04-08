@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kusasalakhe Hlongwa</h1>
-<h3 align="center">An Aspiring .NET Full-Stack Developer</h3>
+<h3 align="center">An Aspiring Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on a **Doctor Appointment Booking Application**, using *EF Core, Microsoft SQL Server, RESTful API and REACT*
 
