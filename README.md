@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kusasalakhe Hlongwa</h1>
 <h3 align="center">An Aspiring Full-Stack Developer</h3>
 
+
+
 - 🔭 I’m currently working on a **Doctor Appointment Booking Application**, using *EF Core, Microsoft SQL Server, RESTful API and REACT*
 
 - 🌱 I’m currently learning **React, JavaScript and SQL**
@@ -11,9 +13,6 @@
 - 🤝 I’m looking for help with **React, CSS and JavaScript**, front-end is my weakness and with your help I can improve.
 
 - 💬 Ask me about **RESTful APIs, ASP.NET CORE MVC and EF Core**
-
-# 💫 About Me:
-an aspiring c# dev
 
 
 ## 🌐 Socials:
