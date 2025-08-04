@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on a **Doctor Appointment Booking Application**, using *EF Core, Microsoft SQL Server, RESTful API and REACT*
+- 🔭 I’m currently honing my skills in *Clean Architecture, Domain Driven Design and SOLID principles*.
 
-- 🌱 I’m currently learning **React, JavaScript and SQL**
+- 🌱 I’m currently learning **React, Tailwind CSS, JavaScript and SQL**
 
 - 👯 I’m looking to collaborate on **my future full-stack projects**
 
-- 🤝 I’m looking for help with **React, CSS and JavaScript**, front-end is my weakness and with your help I can improve.
+- 🤝 I’m looking for help with **React and Tailwind CSS**, front-end is my weakness and with your help I can improve.
 
 - 💬 Ask me about **RESTful APIs, ASP.NET CORE MVC and EF Core**
 
